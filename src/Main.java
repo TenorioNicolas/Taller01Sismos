@@ -1,24 +1,11 @@
-<<<<<<< HEAD
-public class Main {
-    public static void main(String[] args) {
-        String[] datos_sismos = new String[10];
-=======
 import java.util.Scanner;
-
 
 public class Main {
     public static void main(String[] args) {
         String[] datos_sismos = new String[10];
         menu();
->>>>>>> a00bc41 (otra version)
 
         System.out.println("Hello world!");
-
-    }
-<<<<<<< HEAD
-=======
-    public static void agregarSismos (String[] datos_sismos){
-
     }
 
     public static void menu (){
@@ -43,7 +30,5 @@ public class Main {
         }
 
     }
-
->>>>>>> a00bc41 (otra version)
 
 }
